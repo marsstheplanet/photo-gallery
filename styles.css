@@ -1,0 +1,18 @@
+h1{
+  display: flex;
+  justify-content: center;
+  font-family: arial black;
+  color: #9b6100;
+}
+h3{
+  display: flex;
+  justify-content: center;
+  font-family:cursive;
+  color: #9b6100;
+}
+.images{
+  height: 200px;
+}
+/* div{
+  length: 50px
+} */
